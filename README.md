@@ -1,2 +1,2 @@
-# Bienvenidos al servidor de versionamiento de Grupo Onyx
+# Bienvenidos al servidor de versionamiento de Prueba
 
